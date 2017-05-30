@@ -1,3 +1,3 @@
 # hello-world
-beginner repository
+beginner repository \n
 This is a test
